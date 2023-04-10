@@ -136,6 +136,7 @@ nav > ul > li > a:active {
   .project-tile {
     width: 96vw;
     height: 100vw;
+    margin-bottom: 10px;
   }
 }
 
