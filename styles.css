@@ -182,7 +182,7 @@ nav > ul > li > a:active {
 }
 @media screen and (max-width: 600px) {
   #contacts{
-  height: 123vh;
+  /* height: 123vh; */
   }
   .contacts-container {
     flex-direction: column;
